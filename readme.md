@@ -1,89 +1,86 @@
-<h2 align="left">Hi 👋! My name is Chromey and I'm a Cheat Developer, from Germany 🇩🇪</h2>
+<div align="center">
 
-![](https://komarev.com/ghpvc/?username=Chromeyc)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,36&height=180&section=header&text=Chromey&fontSize=42&fontAlignY=35&desc=desktop%20apps%20%E2%80%A2%20web%20automation%20%E2%80%A2%20reverse%20engineering&descAlignY=55&descAlign=50" width="100%" />
 
-###
+  <p align="center">
+    founder & developer behind <a href="https://github.com/rootscripts">@rootscripts</a> and <a href="https://github.com/LibreDuo">@LibreDuo</a>.
+    <br />
+    building desktop applications, userscripts, cheats, and web automation suites.
+  </p>
+
+  <p align="center">
+    <a href="https://discord.com/users/1049675594125811824" target="_blank"><img src="https://img.shields.io/badge/Discord-4qu8-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
+    <a href="https://t.me/smha_dev" target="_blank"><img src="https://img.shields.io/badge/Telegram-@riffplayer-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  </p>
+
+</div>
+
+---
+
+### 🚀 projects & organizations
+
+<table>
+  <tr>
+    <td width="65%">
+      <h3><a href="https://github.com/rootscripts/riff">🎵 Riff — Desktop Audio Player</a></h3>
+      <p>
+        Full-featured desktop music player with Material You styling, custom HSL theming, Spotify playlist import, synced LRC lyrics, and Web Audio DSP engine.
+      </p>
+      <p>
+        <b>Tech:</b> <code>Electron</code> • <code>Node.js</code> • <code>Web Audio API</code> • <code>Tone.js</code> • <code>Android / Kotlin</code>
+      </p>
+    </td>
+    <td width="35%" align="center">
+      <a href="https://github.com/rootscripts/riff">
+        <img src="https://img.shields.io/github/stars/rootscripts/riff?style=for-the-badge&color=94C9FF&labelColor=16191C" alt="Riff Stars" />
+      </a>
+      <br /><br />
+      <a href="https://github.com/rootscripts/riff">
+        <img src="https://img.shields.io/badge/release-v42.0.0-8EEDD8?style=for-the-badge&labelColor=16191C" alt="Version" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="65%">
+      <h3><a href="https://github.com/LibreDuo">🦉 LibreDuo — Duolingo Utility (DuoXPy)</a></h3>
+      <p>
+        Open-source ecosystem of client-side userscripts, account tooling, and automation bots for Duolingo (DuoXJS, DuoXPy).
+      </p>
+      <p>
+        <b>Tech:</b> <code>JavaScript</code> • <code>Userscripts</code> • <code>Python</code> • <code>TypeScript</code> • <code>Web APIs</code>
+      </p>
+    </td>
+    <td width="35%" align="center">
+      <a href="https://github.com/LibreDuo">
+        <img src="https://img.shields.io/badge/organization-LibreDuo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white&labelColor=16191C" alt="LibreDuo" />
+      </a>
+      <br /><br />
+      <a href="https://github.com/LibreDuo/DuoXJS">
+        <img src="https://img.shields.io/github/stars/LibreDuo/DuoXJS?style=for-the-badge&color=FFD93D&labelColor=16191C" alt="DuoXJS Stars" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ stack & tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,lua,cpp,cs,nodejs,electron,kotlin,android,html,css,git,linux,vscode&theme=dark" alt="tech stack" />
+</p>
+
+---
+
+### 📊 stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chromeyc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chromeyc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Chromeyc&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chromeyc&layout=compact&count_private=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="languages" />
 </div>
 
-###
+<br />
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/166930057?v=4"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="30" alt="twitter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" height="30" alt="adobeaftereffects logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="30" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/firefox/FF7139" height="30" alt="firefox logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=blender" height="30" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=discord" height="30" alt="discord logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=instagram" height="30" alt="instagram logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Chromeyc/Chromeyc/output/snake.svg" alt="Snake animation" width="100%" />
 </div>
-
-###
-
-<div align="left">
-  <a href="https://www.youtube.com/@Roody810" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/idkagoodnamee_m/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.twitch.tv/admin_x2" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  </a>
-  <a href="discord.com/users/1049675594125811824" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Chromeyc/Chromeyc/output/snake.svg" alt="Snake animation" />
-
-###
