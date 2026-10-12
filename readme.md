@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,36&height=180&section=header&text=aqua&fontSize=42&fontAlignY=35&desc=desktop%20apps%20%E2%80%A2%20web%20automation%20%E2%80%A2%20reverse%20engineering&descAlignY=55&descAlign=50" width="100%" />
 
   <p align="center">
-    founder & developer behind <a href="https://github.com/rootscripts">@rootscripts</a> and <a href="https://github.com/LibreDuo">@LibreDuo</a>.
+    founder & developer behind <a href="https://github.com/LibreDuo">@LibreDuo</a>.
     <br />
     building desktop applications, userscripts, cheats, and web automation suites.
   </p>
