@@ -10,7 +10,7 @@
 
   <p align="center">
     <a href="https://discord.com/users/1049675594125811824" target="_blank"><img src="https://img.shields.io/badge/Discord-4qu8-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
-    <a href="https://t.me/smha_dev" target="_blank"><img src="https://img.shields.io/badge/Telegram-@riffplayer-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
+    <a href="https://t.me/smh_star" target="_blank"><img src="https://img.shields.io/badge/Telegram-@smh__star-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
   </p>
 
 </div>
